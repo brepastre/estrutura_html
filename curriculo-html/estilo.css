@@ -1,0 +1,28 @@
+header, footer {
+    background-color: rgb(91, 74, 107);
+    color: rgb(214, 214, 214);
+    text-align: center;
+    padding: 10px;
+    margin: 10px
+}
+
+#titulo_principal {
+    text-align: left;
+    color:rgb(36, 29, 43)
+}
+
+.menu {
+    color: white
+}
+
+body {
+    background-color: rgb(157, 137, 178);
+    color:rgb(36, 29, 43)
+
+}
+
+section {
+    background-color: rgb(215, 195, 234);
+    margin: 10px;
+    padding: 10px
+}
