@@ -4,9 +4,8 @@ header {
     padding: 10px;
 }
 
-header #img-header {
+#img-header {
     padding: 10px;
-    width: 400px;
 }
 
 
@@ -25,16 +24,38 @@ header a:hover {
     padding-top: 50px;
 }
 
-main div {
+#main-grade {
+    padding-top: 50px;
+    padding-left: 20px;
+}
+
+#main-grade div {
     border-color: white;
     border-top-style: groove; 
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+
+main div {
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+#main-lista {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+table th {
+    border: 1px rgb(216, 216, 216) solid;
+}
+
+table td {
+    border: 1px rgb(216, 216, 216) solid;
 }
 
 main {
-    padding: 100px;
-}
-
-body {
     background-color: #2a2a2a;
     color: rgb(216, 216, 216);
     margin: auto;
@@ -46,16 +67,15 @@ body p {
     padding-left: 8px;
 }
 
-th, td {
-    border: 1px rgb(216, 216, 216) solid;
-}
-
-table {
+#div-tabela {
     padding: 100px;
 }
 
+
+
 footer {
     background-color: #202020;
+    color: rgb(216, 216, 216);
     text-align: center;
     padding: 10px;
     height: 50px;
